@@ -1,0 +1,89 @@
+{F:/KashanUniversity/Tarahi digital/theFinalFinal/2_DigitaltoAnalogConvertor_testunit.vhd} {1 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/2_DigitaltoAnalogConvertor_testunit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity digitaltoanalogconvertortb
+-- Compiling architecture tb of digitaltoanalogconvertortb
+-- Loading entity digitaltoanalogconvertor
+
+} {} {}} {F:/KashanUniversity/Tarahi digital/theFinalFinal/2_DigitaltoAnalogConvertor_unit.vhd} {1 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/2_DigitaltoAnalogConvertor_unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity digitaltoanalogconvertor
+-- Compiling architecture action of digitaltoanalogconvertor
+
+} {} {}} {F:/KashanUniversity/Tarahi digital/theFinalFinal/3_output_testunit.vhd} {1 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/3_output_testunit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity output_tb
+-- Compiling architecture tb of output_tb
+-- Loading entity output
+
+} {} {}} {F:/KashanUniversity/Tarahi digital/theFinalFinal/3_output_unit.vhd} {1 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/3_output_unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity output
+-- Compiling architecture action of output
+
+} {} {}} {F:/KashanUniversity/Tarahi digital/theFinalFinal/4_controller_testunit.vhd} {1 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/4_controller_testunit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity controllunit_tb
+-- Compiling architecture tb of controllunit_tb
+-- Loading entity controllunit
+
+} {} {}} {F:/KashanUniversity/Tarahi digital/theFinalFinal/4_controller_unit.vhd} {1 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/4_controller_unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity controllunit
+-- Compiling architecture action of controllunit
+
+} {} {}} {F:/KashanUniversity/Tarahi digital/theFinalFinal/1_compration_unit.vhd} {1 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/1_compration_unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity thecompration
+-- Compiling architecture action of thecompration
+
+} {} {}} {F:/KashanUniversity/Tarahi digital/theFinalFinal/1_compration_testunit.vhd} {2 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/1_compration_testunit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity thecomprationtb
+-- Compiling architecture tb of thecomprationtb
+-- Loading entity thecompration
+** Warning: [4] F:/KashanUniversity/Tarahi digital/theFinalFinal/1_compration_testunit.vhd(31): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {F:/KashanUniversity/Tarahi digital/theFinalFinal/5_ADC_testunit.vhd} {2 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/5_ADC_testunit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Loading package numeric_std
+-- Compiling entity analogtodigitalconvertor_tb
+-- Compiling architecture tb of analogtodigitalconvertor_tb
+-- Loading entity analogtodigitalconvertor
+** Warning: [4] F:/KashanUniversity/Tarahi digital/theFinalFinal/5_ADC_testunit.vhd(26): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+** Warning: [4] F:/KashanUniversity/Tarahi digital/theFinalFinal/5_ADC_testunit.vhd(36): (vcom-1207) An abstract literal and an identifier must have a separator between them.
+
+} {} {}} {F:/KashanUniversity/Tarahi digital/theFinalFinal/5_ADC_unit.vhd} {1 {vcom -work work -2002 -explicit {F:/KashanUniversity/Tarahi digital/theFinalFinal/5_ADC_unit.vhd}
+Model Technology ModelSim ALTERA vcom 6.3g_p1 Compiler 2008.08 Aug 13 2008
+-- Loading package standard
+-- Loading package std_logic_1164
+-- Compiling entity analogtodigitalconvertor
+-- Compiling architecture action of analogtodigitalconvertor
+-- Loading entity thecompration
+-- Loading package numeric_std
+-- Loading entity digitaltoanalogconvertor
+-- Loading entity output
+-- Loading entity controllunit
+
+} {} {}}
